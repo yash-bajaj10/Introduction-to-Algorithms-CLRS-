@@ -1,6 +1,6 @@
 # Insertion Sort:
 
-All the sorting algorithms are type of a puzzle with different solving conditions. We all know the final answer of that puzzle i.e. either to arrange all the elements in ascending or descending order.The main fight is how to reach that answer. we are given the conditions and applying those conditions we have to solve that puzzle.
+All the sorting algorithms are type of a puzzle with different solving conditions. We all know the final answer of that puzzle i.e. either to arrange all the elements in ascending or descending order.The main fight is how to reach that answer. We are given the conditions and applying those conditions, we have to solve that puzzle.
 
 Let's solve our first puzzle : "Insertion sort".
 
@@ -11,11 +11,11 @@ Condition:
 1. You can only select one element at a time that you need to sort.
 2. You can have access to the number you have selected and the numbers before the selected number.
 								OR
-   You can have access to the number you have selected and the numbers before the selected number.
+   You can have access to the number you have selected and the numbers after the selected number.
 
 Solution:
 
-I will show you how to solve this for elements  [5,1,3,6,2]. You have to complete this puzzle by sorting the last element.
+I will show you how to solve this for elements  "5","1","3","6". You have to complete this puzzle by sorting the last element.
 
 Step-1:
 
