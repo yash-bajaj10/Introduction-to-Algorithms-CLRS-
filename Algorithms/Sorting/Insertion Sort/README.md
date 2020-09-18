@@ -36,6 +36,6 @@ We select "6". We will compare "6" with "1","3","5". But as we can see 6 is grea
 
 Now you have to solve the last part of the puzzle to know wheather you can solve it or not.
 
-This is the way we solve the insrtion sort. It is less efficient sorting method compared to others. We will see how it is less efficient in further sorting method.
+This is the way we solve the insertion sort. It is less efficient sorting method compared to others. We will see how it is less efficient in further sorting method.
 
 
